@@ -1,5 +1,10 @@
 # DXConnection
 
+####使用CocoaPods
+</p>
+
+    pod 'DXConnection',:git=>"https://github.com/bindx/DXConnection.git"
+
 
 ###使用方法
 
